@@ -1,0 +1,11 @@
+#sidebar-wrapper {
+    color: #ecf0f1;
+    background: #2ecc71;
+}
+.sidebar-nav {
+    color: #ecf0f1;
+    background: #2ecc71;
+}
+.sidebar-nav li a{
+    color: #fff !important;
+}
